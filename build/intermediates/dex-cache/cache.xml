@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JackieWang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Ejay\Work\eztofu_Android\eztofu\app\build\intermediates\pre-dexed\debug\gson-2.3-611eaa3765b2a9b3c7e49e9c1fdfe3a19fc22e4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\JackieWang\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-mobile-services-android-sdk\2.0.2-beta2\f0ed1dcd9df64b4762a5d864302682af0ddbd6a8\azure-mobile-services-android-sdk-2.0.2-beta2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f0ed1dcd9df64b4762a5d864302682af0ddbd6a8">
+        <dex dex="C:\Ejay\Work\eztofu_Android\eztofu\app\build\intermediates\pre-dexed\debug\azure-mobile-services-android-sdk-2.0.2-beta2-80647f8612fa8446932e8b5f7ccd78780481a3e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\JackieWang\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Ejay\Work\eztofu_Android\eztofu\app\build\intermediates\pre-dexed\debug\guava-18.0-4a02e8c5e0954b7b11851e012012f3b17d7cf20f.jar" />
+    </item>
+    <item
+        jar="C:\Ejay\Work\eztofu_Android\eztofu\libs\gson-2.2.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="C:\Ejay\Work\eztofu_Android\eztofu\app\build\intermediates\pre-dexed\debug\gson-2.2.2-16b969f6375d8d70e6462a241508f23c6573462e.jar" />
+    </item>
+    <item
+        jar="C:\Users\JackieWang\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-notifications-handler\1.0.1\c322af100020e6db539f2aa367698d4b88fc453f\azure-notifications-handler-1.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c322af100020e6db539f2aa367698d4b88fc453f">
+        <dex dex="C:\Ejay\Work\eztofu_Android\eztofu\app\build\intermediates\pre-dexed\debug\azure-notifications-handler-1.0.1-481e2d8243f6c77bc97401f9502d3d6b6371dff0.jar" />
+    </item>
+
+</items>
